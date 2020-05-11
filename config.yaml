@@ -1,0 +1,8 @@
+#Example
+#Config
+#   serial: /dev/ttyS0 --- serialport string
+#   baudrate: 9600 --- baudrate int
+
+configure:
+  serial: /dev/ttyS0
+  baudrate: 9600
